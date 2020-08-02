@@ -1,2 +1,2 @@
 # hello-world
-first repository! 20200802 Sunday
+first repository! 20200802 on Sunday
